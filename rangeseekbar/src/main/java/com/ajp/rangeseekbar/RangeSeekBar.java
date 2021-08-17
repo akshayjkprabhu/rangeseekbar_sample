@@ -16,11 +16,6 @@ import android.util.Pair;
 import android.view.MotionEvent;
 import android.view.View;
 
-/*
- * Created by akshay on 25/11/18.
- * Copyright © 2018, Huffy
- * Written under contract by Robosoft Technologies Pvt. Ltd.
- */
 public class RangeSeekBar extends View {
 
     private static final String TAG = RangeSeekBar.class.getSimpleName();

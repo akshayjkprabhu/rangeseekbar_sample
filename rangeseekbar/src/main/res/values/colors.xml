@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seekBarColor">#6600C1DE</color>
+    <color name="rangeColor">#FF00C1DE</color>
+    <color name="knobColor">#FF00C1DE</color>
+    <color name="knobTint">#33F5F7F7</color>
+</resources>

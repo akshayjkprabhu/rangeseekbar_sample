@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RangeSeekBar">
+        <attr name="minPercentage" format="integer" />
+        <attr name="maxPercentage" format="integer" />
+        <attr name="seekBarColor" format="color" />
+        <attr name="rangeColor" format="color" />
+        <attr name="knobTint" format="color" />
+        <attr name="knobColor" format="color" />
+        <attr name="leftKnobEnabled" format="boolean" />
+        <attr name="rightKnobEnabled" format="boolean" />
+    </declare-styleable>
+</resources>
